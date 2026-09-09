@@ -239,3 +239,6 @@ This repository serves as the official landing page for Vintager. The software i
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Vintager today!**
+
+---
+**Last updated:** 2026-09-09 22:03:03 UTC
