@@ -241,4 +241,4 @@ This repository serves as the official landing page for Vintager. The software i
 **Get the most recent version of Vintager today!**
 
 ---
-**Last updated:** 2026-09-12 23:29:48 UTC
+**Last updated:** 2026-09-13 01:42:36 UTC
